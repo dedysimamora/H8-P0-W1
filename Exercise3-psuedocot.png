@@ -1,0 +1,48 @@
+1.Newton Second Law
+n,m,a as integer
+read m
+read a
+n = m * a
+print n
+
+
+2. tahun kabisat
+
+x as integer
+
+read x
+ if x mod 4 = 0 & x mod 100 != 0
+	then print "tahun kabisat
+else if x mod 4 = 0 & x mod 100 = 0 and x mod 100 = 0
+	then print "tahun kabisat"
+else
+print "bukan tahun kabisat"
+
+3. laundry day
+
+b as integer
+b = 0
+for  b<=20 
+ b + 1
+print b
+next b
+
+4. periksa kuku
+
+siswa [40] string
+x integer
+
+siswa = 0
+
+for x = 1 to 40
+	if siswa(x) kuku bagus
+		puji
+	else hukum
+next x
+
+
+
+
+
+
+ 
