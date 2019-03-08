@@ -1,0 +1,6 @@
+var r = 5;
+
+while(r>=0){
+    console.log("*");
+}
+
