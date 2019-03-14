@@ -1,0 +1,40 @@
+1. Newton Second Law
+
+- definisikan variabel n,m,a sebagai integer
+- baca nilai masukan untuk variabel a
+- baca nilai masukan untuk variabel m
+- hitung hasil kali m dan a, lalu tampung di variabel n
+- cetak variabel n
+
+
+2. Tahun kabisat
+
+- definisikan variabel x sebagai integer
+- baca nilai masukan variabel x
+- periksa variabel x apakah habis jika dibagi dengan 4 dan tidak habis jika dibagi 100, apabila keduanya benar, cetak x "adalah tahun kabisat"
+- periksa juga apabila variabel x habis dibagi 4 dan habis dibagi 100 dan habis dibagi 400, apabila ketiga kondisi tersebut benar maka cetak x "adalah tahun kabisat"
+
+
+
+3. Laundry day
+
+- definisikan variabel b (untuk mewakili baju) sebagai integer
+- beri nilai awal b dengan nilai 0 (jumlah awal baju yang telah di masukan ke mesin cuci)
+- lakukan perulangan for dengan kondisi selama b lebih kecil dari atau sama dengan 20, 
+- lakukan pertambahan b dengan 1 (memasukan baju satu persatu ke mesin cuci)
+- cetak nilai variabel b (agar tau jumlah baju yang dimasukan sudah brp)
+- lanjutkan perulangan b
+-selesai
+ 
+
+4. periksa kuku
+
+- definisikan variabel s (untuk mewakili siswa) sebagai array
+- definisikan variabel c sebagai integer
+- lakukan perulangan c dengan kondisi selama ilai c kurang daria tau sama dengan 40
+- lakukan pengecekan apakah s[c] (maksudnya siswa urutan ke (mengikuti nilai perulangan c saaat ini) kukunya bagus atau tidak, apabila bagus beri pujian
+- apabila kukunya jelek, hukum
+- lanjutkan perulangan c
+- selesai
+
+
