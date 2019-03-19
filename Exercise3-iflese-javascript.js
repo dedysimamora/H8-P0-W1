@@ -1,7 +1,7 @@
-var nama = "junto";
-var peran = "dukun";
+var nama = "asd" ;
+var peran = "";
 
-if (nama === "" && peran === ""){
+if (nama === ""){
 
   console.log("Nama harurs di isi!!");
 
