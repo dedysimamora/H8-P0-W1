@@ -21,7 +21,7 @@ if (nama === ""){
 
 } else if (nama !="" && peran === "begal") {
 
-  console.log("Selamat Datang Di dunia gaib " + nama );
+  console.log("Selamattt Datang Di dunia gaib " + nama );
   console.log("Halo",peran ,nama, "Kamu dapat membegal dngan golok mu !" );
 
 }
